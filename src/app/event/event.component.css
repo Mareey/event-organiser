@@ -1,0 +1,23 @@
+/* body {
+  margin: 100px !important;
+} */
+
+img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.thumbnail {
+  min-height: 210px;
+  margin-left: 50px;
+}
+
+/* .pad-left {
+  margin-left: 10px;
+} */
+
+.well div {
+  color: #bbb;
+}
+

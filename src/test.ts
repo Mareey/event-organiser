@@ -18,3 +18,17 @@ getTestBed().initTestEnvironment(
 const context = require.context('./', true, /\.spec\.ts$/);
 // And load the modules.
 context.keys().map(context);
+
+
+/***********
+Personnal Test try
+*************/
+// describe('first test', () => {
+//   it('should be true', () => {
+//     expect(true).toBe(true);
+//   });
+
+//   it('second test should be false', () => {
+//     expect(false).toBe(false);
+//   });
+// });
